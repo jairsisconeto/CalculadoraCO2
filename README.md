@@ -15,7 +15,7 @@ Uma aplicação web simples e eficiente para conscientização ambiental, permit
 * **GitHub Pages:** Hospedagem do projeto.
 
 ## 📋 Como utilizar
-1. Acesse o link do projeto: https://jairsisconeto.github.io/CalculadoraCO2/
+1. Acesse o link do projeto: [Calculadora de Emissão de CO₂](https://jairsisconeto.github.io/CalculadoraCO2)
 2. Insira a origem e destino ou inserir distância manualmente.
 3. Selecione o meio de transporte utilizado.
 4. Clique em **Calcular Emissão** para ver o resultados da Emissão.
